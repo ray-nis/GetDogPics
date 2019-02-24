@@ -7,3 +7,5 @@ function showPic() {
         document.querySelector("#img").src = data.message
     })
 }
+
+document.querySelector("#getDog").click();
